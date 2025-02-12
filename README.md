@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Getting Started with Create React App
-
+Bazar_admin panel
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

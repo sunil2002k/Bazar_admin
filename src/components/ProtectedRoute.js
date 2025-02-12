@@ -1,5 +1,4 @@
 // ProtectedRoute.js
-// ProtectedRoute.js
 import { Navigate } from "react-router-dom";
 
 const ProtectedRoute = ({ isAuthenticated, children }) => {
